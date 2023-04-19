@@ -1,0 +1,8 @@
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\bin\Debug\LinqEj6.exe.config
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\bin\Debug\LinqEj6.exe
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\bin\Debug\LinqEj6.pdb
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\obj\Debug\LinqEj6.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\obj\Debug\LinqEj6.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\obj\Debug\LinqEj6.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\obj\Debug\LinqEj6.exe
+C:\Users\matia\Downloads\EjerciciosLinq-main\Ejercicios Linq\Ej6\LinqEj6\obj\Debug\LinqEj6.pdb
